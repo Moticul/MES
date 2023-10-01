@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"ac048451294ddd29","type":"group","x":202,"y":-306,"width":270,"height":400,"label":"buttons"},
+		{"id":"361d6e48f45201f6","type":"text","text":"Processor ","x":-80,"y":-180,"width":149,"height":160},
+		{"id":"fa8af61a21fbd0ff","type":"text","text":"Enter Button","x":236,"y":-140,"width":136,"height":60},
+		{"id":"b6e97aa31245d2c5","type":"text","text":"Play/Stop Button","x":236,"y":15,"width":136,"height":60},
+		{"id":"ae1390fe4aabb832","type":"text","text":"Down Button","x":236,"y":-210,"width":136,"height":60},
+		{"id":"652f888cd642b4e6","type":"text","text":"Up \nButton\n","x":236,"y":-288,"width":136,"height":60},
+		{"id":"e00e5d9e41ae91cb","type":"text","text":"Back Button","x":236,"y":-60,"width":136,"height":60},
+		{"id":"4fff9019a8564de4","type":"text","text":"5-pin MIDI connector ","x":-373,"y":-132,"width":147,"height":65},
+		{"id":"0c66b72e19c7cd7e","type":"text","text":"Battery","x":-63,"y":165,"width":115,"height":50},
+		{"id":"5f4b0bb2ade087d0","type":"text","text":"USB-C charging","x":-69,"y":283,"width":127,"height":60},
+		{"id":"dbfaca7fed13d583","type":"text","text":"Display ","x":-63,"y":55,"width":118,"height":60},
+		{"id":"54223b7f7f40ebd6","x":-71,"y":-318,"width":131,"height":60,"type":"text","text":"Debug"}
+	],
+	"edges":[
+		{"id":"b7c14d4ce3b07b20","fromNode":"ac048451294ddd29","fromSide":"left","toNode":"361d6e48f45201f6","toSide":"right","label":"GPIO"},
+		{"id":"9fc55a1fb37b2e31","fromNode":"dbfaca7fed13d583","fromSide":"top","toNode":"361d6e48f45201f6","toSide":"bottom","label":"i2c"},
+		{"id":"e1301555ddeb3f02","fromNode":"361d6e48f45201f6","fromSide":"left","toNode":"4fff9019a8564de4","toSide":"right","label":"UART"},
+		{"id":"ce6a65405fac223a","fromNode":"5f4b0bb2ade087d0","fromSide":"top","toNode":"0c66b72e19c7cd7e","toSide":"bottom"},
+		{"id":"48c2063a68e79772","fromNode":"0c66b72e19c7cd7e","fromSide":"top","toNode":"dbfaca7fed13d583","toSide":"bottom"},
+		{"id":"19f01fd8b68d1f00","fromNode":"0c66b72e19c7cd7e","fromSide":"left","toNode":"4fff9019a8564de4","toSide":"bottom"},
+		{"id":"5c2719457bebb7a4","fromNode":"0c66b72e19c7cd7e","fromSide":"right","toNode":"ac048451294ddd29","toSide":"bottom"},
+		{"id":"051daca3596257dd","fromNode":"361d6e48f45201f6","fromSide":"top","toNode":"54223b7f7f40ebd6","toSide":"bottom","label":"Serial"}
+	]
+}

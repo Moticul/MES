@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"219f834fe271992d","x":-260,"y":-320,"width":109,"height":50,"type":"text","text":"GPIO"},
+		{"id":"be9bc4a5f19c3c50","x":-256,"y":-270,"width":101,"height":60,"type":"text","text":"User input\n"},
+		{"id":"8dd12678a1aeeeca","x":-111,"y":-320,"width":117,"height":50,"type":"text","text":"i2c"},
+		{"id":"d6d7d2600f167174","x":-111,"y":-270,"width":117,"height":60,"type":"text","text":"display output "},
+		{"id":"ddaa9b4000791838","x":40,"y":-320,"width":125,"height":50,"type":"text","text":"UART"},
+		{"id":"242926bf3808babe","x":40,"y":-270,"width":125,"height":60,"type":"text","text":"MIDI output"}
+	],
+	"edges":[]
+}
