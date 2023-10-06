@@ -4,6 +4,10 @@
 
 ## Hardware Block Diagram 
 
+![[Diagram.svg]]
+
+
+
 ## Details 
 
 - **What kind of processor is it?**
@@ -39,12 +43,27 @@ The STM32F303VCT6 MCU pricing starts at $9.95 per unit for quantities of 1-9 uni
 
 ## Details 
 
-- What kind of processor is it?
+**- What kind of processor is it?**
 
-- How much Flash and RAM does it have? Any other memory types?
+ATSAMD21G18 ARM Cortex M0 processor
 
-- Does it have any special peripherals? (List 3-5 that you find interesting)
+**- How much Flash and RAM does it have? Any other memory types?**
 
-- If it has an ADC, what are the features?
+256 Kilobytes of flash memory 
+32 Kilobytes of RAM
 
-- How much does the board cost vs what the processor costs? Is the processor in stock anywhere? (Try Digikey, Mouser, Octopart, Google, and so on.)
+**- Does it have any special peripherals? (List 3-5 that you find interesting)**
+
+1. SX127x  LoRa Transceiver  
+2. USB connector
+3. GPIO exposed through through-holes 
+4. power header
+5. Reset button
+6. Antenna hole 
+
+**- If it has an ADC, what are the features?**
+
+
+
+
+**- How much does the board cost vs what the processor costs? Is the processor in stock anywhere? (Try Digikey, Mouser, Octopart, Google, and so on.)**
