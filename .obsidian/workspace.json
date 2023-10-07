@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32e2198e5bff6b3e",
+        "id": "98394a408226339a",
         "type": "tabs",
         "children": [
           {
-            "id": "bdebd2efcd58cabc",
+            "id": "77ea50c6f1ba1fe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ae9dd2f16e3f9cee",
@@ -147,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdebd2efcd58cabc",
+  "active": "77ea50c6f1ba1fe6",
   "lastOpenFiles": [
-    "Diagram.svg.xml",
-    "Diagram.svg"
+    "Diagram.svg",
+    "W2/Week  2 - Getting Hands on the Hardware.md",
+    "Diagram.svg.xml"
   ]
 }

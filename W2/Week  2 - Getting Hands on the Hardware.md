@@ -41,6 +41,7 @@ The STM32F303VCT6 MCU pricing starts at $9.95 per unit for quantities of 1-9 uni
 ## Hardware Block Diagram
 
 
+
 ## Details 
 
 **- What kind of processor is it?**
@@ -63,7 +64,9 @@ ATSAMD21G18 ARM Cortex M0 processor
 
 **- If it has an ADC, what are the features?**
 
-
+The LoRa module on the board contains an ADC for Data conversion but no ADC on the Feather board. 
 
 
 **- How much does the board cost vs what the processor costs? Is the processor in stock anywhere? (Try Digikey, Mouser, Octopart, Google, and so on.)**
+
+The board costs  $34.95  and the ATSAMD21G18 costs $4.16 per chip starting at quantities of 1 to 24.  
