@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "a223216f17078cc5",
         "type": "tabs",
         "children": [
           {
             "id": "649bacdbb484dc40",
+=======
+        "id": "98394a408226339a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ea50c6f1ba1fe6",
+>>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "diagrams-net",
@@ -74,7 +82,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 271.5
+=======
+    "width": 300
+>>>>>>> refs/remotes/origin/main
   },
   "right": {
     "id": "ae9dd2f16e3f9cee",
@@ -147,6 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "649bacdbb484dc40",
   "lastOpenFiles": [
     "W2/Week  2 - Getting Hands on the Hardware.md",
@@ -155,5 +168,12 @@
     "Untitled Diagram.svg",
     "Untitled.canvas",
     "2023-10-05.md"
+=======
+  "active": "77ea50c6f1ba1fe6",
+  "lastOpenFiles": [
+    "Diagram.svg",
+    "W2/Week  2 - Getting Hands on the Hardware.md",
+    "Diagram.svg.xml"
+>>>>>>> refs/remotes/origin/main
   ]
 }
