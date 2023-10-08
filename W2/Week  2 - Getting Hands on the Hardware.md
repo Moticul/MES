@@ -4,6 +4,8 @@
 
 ## Hardware Block Diagram 
 
+
+
 ## Details 
 
 - What kind of processor is it?
