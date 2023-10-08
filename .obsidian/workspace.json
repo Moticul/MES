@@ -1,26 +1,20 @@
 {
   "main": {
-    "id": "08b52eceadd4dd7d",
+    "id": "4d0b94e735df1cdd",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "a223216f17078cc5",
+        "id": "5237237bd8f23433",
         "type": "tabs",
         "children": [
           {
-            "id": "649bacdbb484dc40",
-=======
-        "id": "98394a408226339a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "77ea50c6f1ba1fe6",
->>>>>>> refs/remotes/origin/main
+            "id": "486c9e9b2f7c9ee8",
             "type": "leaf",
             "state": {
-              "type": "diagrams-net",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "W2/Week  2 - Getting Hands on the Hardware.pdf"
+              }
             }
           }
         ]
@@ -29,23 +23,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a1fa53fa90a01f0e",
+    "id": "15f89b374d36b25e",
     "type": "split",
     "children": [
       {
-        "id": "97aa24a1c799ff53",
+        "id": "2f020eace88568b6",
         "type": "tabs",
         "children": [
           {
-            "id": "30877c7e48095894",
+            "id": "052dfa956ce38698",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
-            "id": "8c138d21a0544f68",
+            "id": "a82b4115b38af08a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,48 +56,34 @@
             }
           },
           {
-            "id": "b72cbe37fc6446f6",
+            "id": "c34834b4a6d5e1a0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "8eefbd8284ec694d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 271.5
-=======
     "width": 300
->>>>>>> refs/remotes/origin/main
   },
   "right": {
-    "id": "ae9dd2f16e3f9cee",
+    "id": "05600940837a10c7",
     "type": "split",
     "children": [
       {
-        "id": "72a60a37c365bc31",
+        "id": "7d3754afe0a526b1",
         "type": "tabs",
         "children": [
           {
-            "id": "3d643b53f9cf2fcf",
+            "id": "0d6ecb8c7f157827",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "W2/Week  2 - Getting Hands on the Hardware.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,18 +95,19 @@
             }
           },
           {
-            "id": "8af7cf31d3543bed",
+            "id": "e3ef1fa36934d03f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "W2/Week  2 - Getting Hands on the Hardware.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "632b59e4b127e01a",
+            "id": "6108b98d1a768528",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,11 +118,13 @@
             }
           },
           {
-            "id": "07a12ab5079a9af2",
+            "id": "be50dee51b307353",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "W2/Week  2 - Getting Hands on the Hardware.pdf"
+              }
             }
           }
         ]
@@ -159,21 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "649bacdbb484dc40",
+  "active": "486c9e9b2f7c9ee8",
   "lastOpenFiles": [
     "W2/Week  2 - Getting Hands on the Hardware.md",
-    "W1/Block Diagram.canvas",
-    "Untitled.md",
-    "Untitled Diagram.svg",
-    "Untitled.canvas",
-    "2023-10-05.md"
-=======
-  "active": "77ea50c6f1ba1fe6",
-  "lastOpenFiles": [
-    "Diagram.svg",
-    "W2/Week  2 - Getting Hands on the Hardware.md",
-    "Diagram.svg.xml"
->>>>>>> refs/remotes/origin/main
+    "W2/Week  2 - Getting Hands on the Hardware.pdf",
+    "W2/Diagram 1.svg.xml",
+    "W2/Diagram 1.svg"
   ]
 }

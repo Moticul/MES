@@ -4,12 +4,10 @@
 
 ## Hardware Block Diagram 
 
-<<<<<<< HEAD
-=======
+
 ![[Diagram.svg]]
 
->>>>>>> refs/remotes/origin/main
-
+<div style="page-break-after: always;"></div>
 
 ## Details 
 
@@ -36,6 +34,7 @@ The ADC on the discovery board is used to convert a voltage applied to a given A
 The Discovery board is  $16.43 per board and is available direct from STMicroelectronics. 
 The STM32F303VCT6 MCU pricing starts at $9.95 per unit for quantities of 1-9 units. With discounts on unit pricing for higher volume quantities. 
 
+<div style="page-break-after: always;"></div>
 
 # Adafruit Feather M0 with RFM95 LoRa Radio
 
@@ -43,7 +42,8 @@ The STM32F303VCT6 MCU pricing starts at $9.95 per unit for quantities of 1-9 uni
 
 ## Hardware Block Diagram
 
-
+![[Diagram 1.svg]]
+<div style="page-break-after: always;"></div>
 
 ## Details 
 
